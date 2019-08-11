@@ -4,5 +4,11 @@
         "stream_url" : "https://mm.stream.music.joox.com/C400Z9c5d0b1b4e231.m4a?vkey=B82C2E714AFDDA974AC8973D435C158FF5194D84BAEEE56C4CF923A7F7AB0776&fromtag=8&guid=JOOX@WEB_OPENUDID&t=1565500345671",
         "image" : "https://image.joox.com/JOOXcover/0/dada144abd3e766f/1000",
         "released_date" : "5 Jul 2019"
-    }
+    },
+    {
+        "name" : "Hurt (Acoustic) Feat: Jessica Parry",
+        "stream_url" : "https://mm.stream.music.joox.com/C400003TDtL63kDBoF.m4a?vkey=C4A4B697371C4CF7467966D5C5686248DE5E0F8EDAF70B26DACF4D1E8FED2F77&fromtag=8&guid=JOOX@WEB_OPENUDID&t=1565500733721",
+        "image" : "https://image.joox.com/JOOXcover/0/d3a421d651f8252a/1000",
+        "released_date" : "17 Jul 2019"
+     }
 ]
