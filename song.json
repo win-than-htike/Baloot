@@ -1,7 +1,7 @@
 [
     {
         "name" : "I Do [Baloot Original]",
-        "stream_url" : "https://mm.stream.music.joox.com/C4000038FlrA09zgO7.m4a?vkey=E11A220F1C3043F4D72A90DB1B66300CF3C063FC95269DFAC37CDEF4F5F79CC3&fromtag=8&guid=JOOX@WEB_OPENUDID&t=1565531976352",
+        "stream_url" : "https://mm.stream.music.joox.com/C400Z9c5d0b1b4e231.m4a?vkey=2341B1FC2FB4A67A12A3A975D98F8100457977B92C2932A61E3B884B0FA46F74&fromtag=8&guid=JOOX@WEB_OPENUDID&t=1565532332876",
         "image" : "https://image.joox.com/JOOXcover/0/dada144abd3e766f/1000",
         "released_date" : "5 Jul 2019"
     },
@@ -10,5 +10,11 @@
         "stream_url" : "https://mm.stream.music.joox.com/C4000038FlrA09zgO7.m4a?vkey=E11A220F1C3043F4D72A90DB1B66300CF3C063FC95269DFAC37CDEF4F5F79CC3&fromtag=8&guid=JOOX@WEB_OPENUDID&t=1565531976352",
         "image" : "https://image.joox.com/JOOXcover/0/d3a421d651f8252a/1000",
         "released_date" : "17 Jul 2019"
+     },
+     {
+        "name" : "ကျွန်တော်ရဲ့ချစ်သူ",
+        "stream_url" : "https://mm.stream.music.joox.com/C4000038FlrA09zgO7.m4a?vkey=E11A220F1C3043F4D72A90DB1B66300CF3C063FC95269DFAC37CDEF4F5F79CC3&fromtag=8&guid=JOOX@WEB_OPENUDID&t=1565531976352",
+        "image" : "https://image.joox.com/JOOXcover/0/585ffa0bd6cb348f/1000",
+        "released_date" : "24 Jul 2019"
      }
 ]
