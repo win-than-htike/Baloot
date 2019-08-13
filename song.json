@@ -3,6 +3,12 @@
         "name" : "ဝဋ်ကြွေး",
         "stream_url" : "./uploads/song-mp3/6708F090-8333-11E8-B8BD-3B8788D26614.mp3",
         "image" : "./uploads/song/6708F090-8333-11E8-B8BD-3B8788D26614.jpg",
-        "released_date" : "17 Jul 2019"
+        "released_date" : "ကေအေတီ"
+     },
+     {
+        "name" : "သီချင်းမဲ့ဂီတာ",
+        "stream_url" : "./uploads/song-mp3/D01DE790-833B-11E8-B8BD-3B8788D26614.mp3",
+        "image" : "./uploads/song/D01DE790-833B-11E8-B8BD-3B8788D26614.jpg",
+        "released_date" : "မြင့်မိုးအောင်"
      }
 ]
