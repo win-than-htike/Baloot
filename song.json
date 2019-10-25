@@ -1,14 +1,14 @@
 [
     {
-        "name" : "ဝဋ်ကြွေး",
-        "stream_url" : "./uploads/song-mp3/6708F090-8333-11E8-B8BD-3B8788D26614.mp3",
+        "name" : "I Love You",
+        "stream_url" : "https://d2o4gcjp9xplqc.cloudfront.net/Music/X+Box+-+9/02+I+LUV+U+.mp3",
         "image" : "./uploads/song/6708F090-8333-11E8-B8BD-3B8788D26614.jpg",
-        "released_date" : "ကေအေတီ"
+        "released_date" : "X box"
      },
      {
-        "name" : "သီချင်းမဲ့ဂီတာ",
-        "stream_url" : "https://raw.githubusercontent.com/win-than-htike/Baloot/master/Jessica%20Parry%20_%20Listen%20%26%20Free%20Download%20Hurt%20(Acoustic)%20Feat.%20Jessica%20Parry%20Online%20-%20JOOX.mp3",
+        "name" : "ဂါ",
+        "stream_url" : "https://d2o4gcjp9xplqc.cloudfront.net/Music/Wine+Su+Khine+Thein_%E1%80%82%E1%80%AB/01+Gar+(%E1%80%82%E1%80%AB)+.mp3",
         "image" : "./uploads/song/D01DE790-833B-11E8-B8BD-3B8788D26614.jpg",
-        "released_date" : "မြင့်မိုးအောင်"
+        "released_date" : "ဝိုင်းစုခိုင်သိန်း"
      }
 ]
